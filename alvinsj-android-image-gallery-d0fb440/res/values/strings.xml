@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    
+    <string name="app_name">ImageViewFlipper</string>
+    <string name="string1">Edit</string>
+    <string name="string2">Back</string>
+    
+</resources>
